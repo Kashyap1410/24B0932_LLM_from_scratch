@@ -1,12 +1,12 @@
 # Building a Custom GPT From Scratch
-This project is part of the Summer of Code (SOC) 2025 @ IIT Bombay, under the mentorship of Yashwanth VVS and co-mentors Gnana Mahesh and Jasmitha.
+This project is part of the Seasons of Code (SoC) 2025 @ IIT Bombay, under the mentorship of Yashwanth VVS and co-mentors Gnana Mahesh and Jasmitha.
 
 ### Description
 This repository aims to build a miniature GPT-style language model from the ground up using Python and PyTorch.
 
 Through this, I aim to understand the core building blocks of modern LLMs, implement every component of LLMs in Python & PyTorch, pretrain the model on raw text and fine‑tune it further on both classification and instruction following tasks.
 
-The reference for this project would be the "Building a Large Language Model (From Scratch)" book by Sebastian Raschka.
+The reference for this project was the book "Building a Large Language Model (From Scratch)" by Sebastian Raschka.
 
 ### Project Timeline
 | Week | Goal                                                          |
